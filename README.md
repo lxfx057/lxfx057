@@ -40,9 +40,9 @@
   </p>
 
   <p style="font-size: 14px; margin-top: 5px; line-height: 24px;">
-    <a href="https://www.instagram.com/lucafinaldi_" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://www.instagram.com/lukefinaldi_" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="https://skillicons.dev/icons?i=instagram&s=24" alt="Instagram" style="vertical-align: middle; margin-right: 8px; width: 24px; height: 24px;" />
-      lucafinaldi_
+      lukefinaldi_
     </a>
   </p>
 </div>
