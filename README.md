@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Luca%20Finaldi&textBg=false&section=footer&fontColor=FFFFFF&descAlign=87"
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Luca%20Finaldi&textBg=false&section=footer&fontColor=FFFFFF&descAlign=47"
     alt="Luca Finaldi profile banner"
   />
 </p>
