@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I'm currently working on **Offline Automation **
+- 🔭 I'm currently working on **Offline Automation**
 
 - 🌱 I'm currently learning **Assembly and C+**
 
