@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About Me
 
-# Hi 👋, I'm Luca Finaldi
+
 
 ### A passionate developer
 
