@@ -1,38 +1,35 @@
-# 👋🏻 Hi there! I'm Luca Finaldi
+<div align="center">
 
+# 👋🏻 Hi there, I'm Luca Finaldi
 
-## 👨🏻‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=500&color=FF0000&lines=Software+Developer;Passionate+about+code+and+systems" alt="Typing SVG" />
 
+</div>
 
+---
 
-### A passionate developer
+### 👨🏻‍💻 About Me
 
+* 🔭 I'm currently working on **Offline Automation**
+* 🌱 I'm currently learning **Assembly and C**
+* 🤝 I'm looking for help with **understanding how to improve workflows without excess**
+* 💬 Ask me about **Python, React, PHP, Go, Scala**
+* 📝 I regularly write articles on **[My Portfolio](https://lxfx057.github.io/Portfolio/)**
+* ⚡ Fun fact: **I consume more water per day than ChatGPT 🫪**
 
+---
 
-- 🔭 I'm currently working on **Offline Automation**
+### 🛠️ Tech Stack & Tools
 
-- 🌱 I'm currently learning **Assembly and C+**
-
-- 🤝 I'm looking for help with **understanding how to improve workflows without excess**
-
-- 💬 Ask me about **Python,React, Php,Go,Scala**
-
-- 📫 How to reach me **lucafinaldi3@gmail.com**
-
-- ⚡ Fun fact **I consume more water per day than ChatGPT 🫪**
-
-- 📝 I regularly write articles on **[https://lxfx057.github.io/Portfolio/](https://lxfx057.github.io/Portfolio/)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/lxfx057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lxfx057" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luca-finaldi-840a44309?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luca-finaldi-840a44309?trk=contact-info" height="30" width="40" /></a>
-<a href="https://instagram.com/lukefinaldi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukefinaldi_" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,php,react,nextjs,debian,nodejs,express,sublime,django,replit,flask,ruby,bash,linux,androidstudio,mongodb,mysql,rabbitmq,tensorflow,figma,openshift,vite,scala,github,docker,cpp,rust,java,sqlite,dart,redis,postman,vim,elixir,kotlin,nix,obsidian&perline=8" alt="Tech Stack Icons" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jekyll" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scully" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="scully" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/solr" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachesolr/D9411E" alt="solr" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF0000&lines=THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE" alt="Typing SVG" />
-</p>
+### 📫 Connect with Me
+
+* <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align: middle;" /> [lucafinaldi3@gmail.com](mailto:lucafinaldi3@gmail.com)
+* <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align: middle;" /> [Luca Finaldi](https://www.linkedin.com/in/luca-finaldi-840a44309/)
+* <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="vertical-align: middle;" /> [@lukefinaldi_](https://instagram.com/lukefinaldi_)
+
