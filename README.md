@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 About Me
 
 * 🔭 I'm currently working on **Offline Automation**
-* 🌱 I'm currently learning **Assembly and C**
+* 🌱 I'm currently learning **Assembly and C** for future deploy my OS Nix based
 * 🤝 I'm looking for help with **understanding how to improve workflows without excess**
 * 💬 Ask me about **Python, React, PHP, Go, Scala**
 * 📝 I regularly write articles on **[My Portfolio](https://lxfx057.github.io/Portfolio/)**
