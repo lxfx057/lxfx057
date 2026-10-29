@@ -31,5 +31,5 @@
 
 * <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align: middle;" /> [lucafinaldi3@gmail.com](mailto:lucafinaldi3@gmail.com)
 * <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align: middle;" /> [Luca Finaldi](https://www.linkedin.com/in/luca-finaldi-840a44309/)
-* <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="vertical-align: middle;" /> [@lukefinaldi_](https://instagram.com/lukefinaldi_)
+* <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="vertical-align: middle;" /> [@lukafinaldi_](https://instagram.com/lukafinaldi_)
 
