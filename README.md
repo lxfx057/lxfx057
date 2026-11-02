@@ -21,8 +21,6 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=lxfx057&border_radius=16)
 ---
-![Top Languages](https://ghstats.dev/api/langs?username=lxfx057&max_langs=12&layout=horizontal_list)
----
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=lxfx057&days=90&width=320&height=80)
 ---
 
