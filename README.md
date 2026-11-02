@@ -52,7 +52,7 @@ My long-term goal is to develop my own operating system based on Nix.
 
 Developer · Italy 🇮🇹
 
-[Portfolio](https://lxfx057.github.io/Portfolio/)
+[Portfolio](https://portfolio-self-phi-44.vercel.app)
 
 </td>
 </tr>
