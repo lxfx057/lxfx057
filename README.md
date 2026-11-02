@@ -1,60 +1,208 @@
 <div align="center">
 
-# Luca Finaldi
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111827,100:252b3a&text=Luca%20Finaldi&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Developer%20%7C%20Automation%20%7C%20Open%20Source&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
 
-**Independent Developer · Software Builder · Open Source**
+<br/>
 
-Italy 🇮🇹 · [Portfolio](https://rb.gy/zz7zub) · [GitHub](https://github.com/lxfx057)
+### Building useful things. Making technology simpler.
 
-*I build practical digital tools, explore new technologies, and make everyday workflows simpler.*
+I enjoy creating tools, automating workflows and turning ideas into practical projects.
+My focus is on simplicity, efficiency and building things that make a difference.
+
+<br/>
+
+<a href="https://lxfx057.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-252b3a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:lucafinaldi3@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Get%20in%20touch-252b3a?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/lxfx057">
+  <img src="https://img.shields.io/badge/GitHub-Follow-252b3a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm Luca, an independent developer from Italy interested in software development, web applications, automation, and operating systems.
+I'm Luca, a developer interested in building practical software, improving digital workflows and exploring how technology can solve everyday problems.
 
-I enjoy taking ideas from a first prototype to a usable product, with a focus on clear interfaces, practical features, and thoughtful documentation.
+Currently working on **Offline Automation** and exploring low-level programming with **C and Assembly**, with the long-term goal of creating an operating system based on Nix.
 
-- 🔭 **Currently exploring:** offline-first tools, automation, and web applications.
-- 🌱 **Learning:** C, Assembly, and Nix.
-- 🧩 **Interested in:** open source, operating systems, privacy-conscious software, and developer tools.
-- 🎯 **Approach:** build useful things, document what works, and improve them through feedback.
-
-## Featured projects
-
-| Project | What it does | Status / notes |
-|---|---|---|
-| [Universal Modding Center](https://github.com/lxfx057/Modding-Universal-) | A catalog and guide hub for Android ROMs, device compatibility checks, and iOS sideloading resources. | Independent project; always verify device-specific instructions and official sources. |
-| [Audify](https://github.com/lxfx057/Audify) | A browser-based player for a local audio/video library, with playlists, favorites, and a graphic equalizer. | Media is stored locally in the browser. |
-| [File Share 98](https://github.com/lxfx057/file-share) | A browser-based way to transfer files between phones using a temporary PIN and WebRTC. | Network and browser compatibility can vary; test before relying on large transfers. |
-| [Nova Studio](https://github.com/lxfx057/Nova-Studio) | A visual editor for building responsive page layouts directly in the browser. | Projects are stored locally in the browser; export backups regularly. |
-| [Offline Code Translator](https://github.com/lxfx057/Code-Translator) | An experimental, client-side code translation tool. | Supported language pairs and translation quality vary. |
-
-More experiments are available in my [repositories](https://github.com/lxfx057?tab=repositories).
-
-## Tools and technologies
-
-**Web:** React, JavaScript, TypeScript, HTML, CSS, Vite, Next.js  
-**Programming:** Python, PHP, Go, C, Java, Kotlin, Bash  
-**Systems & workflow:** Linux, Git, GitHub, Docker, Nix
-
-I keep learning and experimenting, so this list reflects technologies I work with or explore—not a claim of equal expertise in every tool.
-
-## Connect
-
-- Portfolio: [rb.gy/zz7zub](https://rb.gy/zz7zub)
-- LinkedIn: [Luca Finaldi](https://www.linkedin.com/in/luca-finaldi-840a44309/)
-- Instagram: [@lukafinaldi_](https://www.instagram.com/lukafinaldi_/)
-- Email: [lucafinaldi3@gmail.com](mailto:lucafinaldi3@gmail.com)
-
----
+I believe good software should be powerful without becoming unnecessarily complicated.
 
 <div align="center">
 
-**Thanks for stopping by.**  
-If something here is useful, try it, open an issue, or share feedback.
+| Focus | Current direction |
+|:---:|:---|
+| ⚙️ Automation | Offline tools and workflow optimization |
+| 💻 Development | Web technologies and software engineering |
+| 🐧 Systems | Linux, Nix, C and Assembly |
+| 🚀 Exploration | New ideas, experiments and open source |
+
+</div>
+
+---
+
+## Technology
+
+Tools and technologies I work with, explore or use in my projects.
+
+<details open>
+<summary><b>💻 Programming languages</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php,go,rust,java,ruby,scala,bash,elixir,kotlin,dart&perline=8" />
+
+</div>
+</details>
+
+<details open>
+<summary><b>🌐 Web development</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,vite&perline=8" />
+
+</div>
+</details>
+
+<details>
+<summary><b>🗄️ Databases & infrastructure</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,rabbitmq,docker,openshift&perline=8" />
+
+</div>
+</details>
+
+<details>
+<summary><b>🛠️ Tools & environments</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,debian,nix,git,github,postman,vim,androidstudio,figma&perline=8" />
+
+</div>
+</details>
+
+<details>
+<summary><b>🧠 Other technologies</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,replit,obsidian,sublime&perline=8" />
+
+</div>
+</details>
+
+---
+
+## Featured projects
+
+A selection of things I'm building, experimenting with and improving.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Offline Automation
+
+Tools designed to automate repetitive tasks and improve everyday workflows.
+
+**Focus:** Efficiency · Automation · Offline-first
+
+</td>
+<td width="50%" valign="top">
+
+### 🐧 Nix-based OS
+
+Exploring low-level programming and system architecture, with the ambition of building my own operating system.
+
+**Focus:** Nix · C · Assembly
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal space for projects, experiments, articles and development.
+
+<a href="https://lxfx057.github.io/Portfolio/">Explore portfolio →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Experiments
+
+Small projects, ideas and technical experiments across different technologies.
+
+**Focus:** Learning · Research · Open Source
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://ghstats.dev/api/card?username=lxfx057&theme=dark" />
+<img width="49%" src="https://streak-stats.demolab.com?user=lxfx057&theme=dark&hide_border=true&background=111827&ring=8b9bb4&fire=8b9bb4&currStreakLabel=ffffff" />
+
+<br/><br/>
+
+<img width="90%" src="https://ghstats.dev/api/sparkline?username=lxfx057&theme=dark" />
+
+</div>
+
+---
+
+## Beyond the code
+
+I like exploring new technologies, discovering better ways to work and keeping things simple.
+
+I also enjoy writing about what I learn and sharing useful ideas through my portfolio.
+
+**Fun fact:** I probably drink more water than ChatGPT processes tokens. 💧
+
+---
+
+## Let's connect
+
+Interested in a project, collaboration or just talking about technology?
+
+<div align="center">
+
+<a href="mailto:lucafinaldi3@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20me-252b3a?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/luca-finaldi-840a44309/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-252b3a?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/lukafinaldi_">
+<img src="https://img.shields.io/badge/Instagram-Follow-252b3a?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=lxfx057&style=flat&color=64748b&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+*Thanks for stopping by. Have a great day!*
 
 </div>
