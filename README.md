@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10121C,50:202A48,100:6046A5&height=220&section=header&text=LUCA%20FINALDI&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Developer%20%7C%20Automation%20%7C%20Technology&descSize=15&descAlignY=62&animation=fadeIn" />
@@ -155,11 +154,9 @@ Exploring new technologies, building prototypes and learning through practical d
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=lxfx057&hide_border=true&border_radius=16.5)
 ———
 ![Top Languages](https://ghstats.dev/api/langs?username=lxfx057&max_langs=12&layout=grid)
-</div>
 
 
 ## ✨ Beyond the Code
