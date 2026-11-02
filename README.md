@@ -135,7 +135,7 @@ Exploring operating system architecture and low-level programming with C, Assemb
 
 My personal website, featuring projects, experiments and articles.
 
-[Visit Portfolio ↗](https://lxfx057.github.io/Portfolio/)
+[Visit Portfolio ↗](https://portfolio-self-phi-44.vercel.app)
 
 </td>
 <td width="50%" valign="top">
