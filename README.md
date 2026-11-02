@@ -1,41 +1,100 @@
-<div align="center">
+ <div align="center">
 
-# 👋🏻 Hi there, I'm Luca Finaldi
+👋 Hey, I’m Luca Finaldi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=500&color=FF0000&lines=Software+Developer;Passionate+about+code+and+systems" alt="Typing SVG" />
+Software Developer · Automation Enthusiast · Systems Explorer
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FF3333&center=true&vCenter=true&width=650&lines=Building+software+that+solves+problems.;Exploring+systems+from+low-level+to+high-level.;Automating+the+boring+stuff.;Learning%2C+building%2C+breaking%2C+improving." alt="Typing SVG" />
+<br/>
 </div>
 
----
+⸻
 
-### 👨🏻‍💻 About Me
+$ whoami
 
-* 🔭 I'm currently working on **Offline Automation**
-* 🌱 I'm currently learning **Assembly and C** for future deploy my OS Nix based
-* 🤝 I'm looking for help with **understanding how to improve workflows without excess**
-* 💬 Ask me about **Python, React, PHP, Go, Scala**
-* 📝 I regularly write articles on **[My Portfolio](https://lxfx057.github.io/Portfolio/)**
-* ⚡ Fun fact: **I consume more water per day than ChatGPT 🫪**
+I’m Luca, a software developer passionate about technology, programming languages, system architecture and automation.
 
----
+I enjoy exploring how things work under the hood, experimenting with different technologies and building tools that make everyday workflows smarter and more efficient.
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=lxfx057&border_radius=16)
----
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=lxfx057&days=90&width=320&height=80)
----
+I’m particularly interested in the intersection between software engineering, automation and low-level systems development.
 
+* 🔭 Currently working on: Offline Automation.
+* 🌱 Currently exploring: C, Assembly and low-level programming to eventually build my own Nix-based operating system.
+* ⚙️ Interested in: Software architecture, workflow optimization and automation.
+* 💬 Ask me about: Python, React, PHP, Go and Scala.
+* 📝 Writing & projects: My Portfolio.
+* 🎯 My philosophy: Keep things simple, understand the fundamentals and automate what doesn’t need to be done twice.
+* ⚡ Fun fact: I probably drink more water in a day than ChatGPT processes tokens. 🫗
 
-### 🛠️ Tech Stack & Tools
+⸻
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,php,react,nextjs,debian,nodejs,express,sublime,django,replit,flask,ruby,bash,linux,androidstudio,mongodb,mysql,rabbitmq,tensorflow,figma,openshift,vite,scala,github,docker,cpp,rust,java,sqlite,dart,redis,postman,vim,elixir,kotlin,nix,obsidian&perline=8" alt="Tech Stack Icons" />
+$ tech --stack
+
+Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php,go,java,rust,ruby,scala,kotlin,dart,bash,elixir" />
 </p>
 
----
+Frontend & Backend
 
-### 📫 Connect with Me
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,django,flask" />
+</p>
 
-* <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align: middle;" /> [lucafinaldi3@gmail.com](mailto:lucafinaldi3@gmail.com)
-* <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align: middle;" /> [Luca Finaldi](https://www.linkedin.com/in/luca-finaldi-840a44309/)
-* <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="vertical-align: middle;" /> [@lukafinaldi_](https://instagram.com/lukafinaldi_)
+Databases & Infrastructure
 
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,rabbitmq,docker,openshift,linux,nix,debian" />
+</p>
+
+Tools & Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vim,postman,figma,androidstudio,obsidian,tensorflow" />
+</p>
+
+⸻
+
+$ git status --projects
+
+Currently focused on building, experimenting and improving software projects.
+
+🔴 Offline Automation
+
+Exploring automation workflows that can operate locally, with a focus on reducing unnecessary dependencies and making processes more efficient.
+
+🖥️ Nix-based Operating System
+
+A long-term learning goal focused on low-level programming, C, Assembly, operating system fundamentals and the Nix ecosystem.
+
+🌐 Portfolio & Experiments
+
+A collection of projects, experiments and technical articles.
+
+Explore everything here:
+
+→ Visit my Portfolio
+
+⸻
+
+$ github --stats
+
+<div align="center">
+<img width="49%" src="https://ghstats.dev/api/card?username=lxfx057&border_radius=16" alt="GitHub Statistics" />
+<img width="49%" src="https://ghstats.dev/api/sparkline?username=lxfx057&days=90&width=450&height=120" alt="90-day contribution activity" />
+</div>
+
+⸻
+
+$ connect --with-luca
+
+Always happy to connect, exchange ideas and discuss interesting projects.
+
+<div align="center">
+<br/>
+<img src="https://komarev.com/ghpvc/?username=lxfx057&style=flat-square&color=FF3333&label=PROFILE+VIEWS" alt="Profile views" />
+
+“First understand how it works. Then make it work better.”
+
+</div>
