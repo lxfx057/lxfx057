@@ -155,10 +155,9 @@ Exploring new technologies, building prototypes and learning through practical d
 ## 📊 GitHub Analytics
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=lxfx057&hide_border=true&border_radius=16.5)
-
-![Top Languages](https://ghstats.dev/api/langs?username=lxfx057&max_langs=12&layout=grid)
-
-
+---
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Lxfx057&days=90&width=350&height=80)
+---
 ## ✨ Beyond the Code
 
 Always learning, experimenting and building something new.
