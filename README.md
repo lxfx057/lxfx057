@@ -1,160 +1,136 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=gradient&customColorList=6,14,18,20,24&text=Luca%20Finaldi&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Developer%20%20%C2%B7%20%20Automation%20%20%C2%B7%20%20Creative%20Technology&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
+# Luca Finaldi
+
+### Developer · Automation · Creative Technology
+
+*Building useful things. Keeping technology simple.*
 
 <br/>
 
-# Technology, made effortless.
-
-I enjoy building useful things, exploring new technologies and making everyday workflows simpler.
-
-**Thoughtful development. Meaningful ideas. Continuous curiosity.**
+I create software, explore new technologies and build tools  
+that make everyday digital experiences better.
 
 <br/>
 
-<a href="https://lxfx057.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Explore%20my%20portfolio-DCE7DF?style=for-the-badge&logo=safari&logoColor=405B49" />
-</a>
-<a href="mailto:lucafinaldi3@gmail.com">
-<img src="https://img.shields.io/badge/Get%20in%20touch-E4EAF2?style=for-the-badge&logo=gmail&logoColor=536B88" />
-</a>
-<a href="https://github.com/lxfx057">
-<img src="https://img.shields.io/badge/GitHub-EAE7E0?style=for-the-badge&logo=github&logoColor=55534E" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## A little about me
-
-</div>
-
-Hi! I'm **Luca**, a developer passionate about technology, software and creating things that are genuinely useful.
-
-I enjoy experimenting with different technologies, improving digital workflows and exploring how software can make everyday tasks easier.
-
-Currently, I'm working on **Offline Automation** and learning **C and Assembly**, with a long-term ambition of creating my own operating system based on Nix.
-
-I believe technology should be powerful, intuitive and accessible — without unnecessary complexity.
+[Portfolio](https://lxfx057.github.io/Portfolio/) &nbsp; · &nbsp; [GitHub](https://github.com/lxfx057) &nbsp; · &nbsp; [Email](mailto:lucafinaldi3@gmail.com)
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Creative%20development-E9DFE4?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-DCE7DF?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20source-DCE4EF?style=flat-square" />
-<img src="https://img.shields.io/badge/Continuous%20learning-EAE4D9?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=82998A&center=true&vCenter=true&width=420&lines=Curious+by+nature.;Building+with+purpose.;Always+learning+something+new." alt="Introduction" />
 
 </div>
 
 ---
 
-<div align="center">
+## Hello, I'm Luca.
 
-## What I'm into
+I'm a developer passionate about software, automation and technology.
 
-*Technology is a space to explore, build and improve.*
+I enjoy turning ideas into practical tools, improving workflows and exploring how things work behind the scenes.
 
-</div>
+Currently, I'm focused on **Offline Automation** and learning **C and Assembly**, with the long-term goal of building my own operating system based on Nix.
 
-### 🌿 Automation & workflows
+I believe great technology doesn't need to be complicated. It should simply work beautifully.
 
-Creating tools that simplify repetitive tasks, improve productivity and make workflows more efficient.
+## What I enjoy
 
-### 💻 Software development
+**Automation**
 
-Exploring programming languages, building applications and turning ideas into practical solutions.
+Creating useful tools that reduce repetitive work and make everyday tasks easier.
 
-### 🖥️ Systems & low-level programming
+**Software development**
 
-Learning more about Linux, Nix, C and Assembly, and exploring the foundations of operating systems.
+Building applications, experimenting with different languages and turning ideas into working projects.
 
-### ✨ Creative experiments
+**Systems & technology**
 
-Trying new ideas, discovering technologies and building small projects along the way.
+Exploring Linux, Nix, low-level programming and the foundations of operating systems.
 
----
+**Creative exploration**
 
-<div align="center">
-
-## My technology universe
-
-A collection of technologies and tools I work with, explore and enjoy learning.
-
-### Programming languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php,go,rust,java,ruby,scala,bash,elixir,kotlin,dart&perline=5&theme=light" />
-
-### Web development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,vite&perline=5&theme=light" />
-
-### Databases & infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,rabbitmq,docker,openshift&perline=5&theme=light" />
-
-### Systems & environments
-
-<img src="https://skillicons.dev/icons?i=linux,debian,nix,androidstudio&perline=5&theme=light" />
-
-### Tools & creativity
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vim,figma,obsidian,sublime,replit,tensorflow&perline=5&theme=light" />
-
-</div>
+Learning, experimenting and discovering better ways to build things.
 
 ---
 
+## Technologies I explore
+
+<details open>
+<summary><b>Programming languages</b></summary>
+<br/>
 <div align="center">
-
-## Things I'm building
-
-*Ideas become interesting when you start creating them.*
-
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php,go,rust,java,ruby,scala,bash,elixir,kotlin,dart&perline=7&theme=light" />
 </div>
+</details>
 
-### ⚙️ Offline Automation
+<details open>
+<summary><b>Web development</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,vite&perline=7&theme=light" />
+</div>
+</details>
 
-Developing tools focused on automation and simplifying everyday digital tasks.
+<details>
+<summary><b>Databases & infrastructure</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,rabbitmq,docker,openshift&perline=7&theme=light" />
+</div>
+</details>
 
-<sub>Automation · Efficiency · Offline-first</sub>
-
-### 🐧 Exploring a Nix-based OS
-
-A long-term learning project focused on operating systems, system architecture and low-level programming.
-
-<sub>Nix · C · Assembly · Linux</sub>
-
-### 🌐 Personal Portfolio
-
-My personal space for showcasing projects, experiments, articles and things I've been working on.
-
-<a href="https://lxfx057.github.io/Portfolio/">Explore my portfolio ↗</a>
-
-### 🧪 Experiments & open source
-
-A place for ideas, prototypes and learning through experimentation.
+<details>
+<summary><b>Systems & tools</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,debian,nix,git,github,postman,vim,androidstudio,figma,obsidian,sublime,replit,tensorflow&perline=7&theme=light" />
+</div>
+</details>
 
 ---
 
+## Selected interests
+
 <div align="center">
+
+### Offline Automation
+
+*Making everyday workflows simpler.*
+
+Developing tools focused on automation, efficiency and offline-first experiences.
+
+<br/>
+
+### Operating Systems
+
+*Understanding technology from the ground up.*
+
+Exploring Nix, Linux, C and Assembly as part of a long-term personal learning journey.
+
+<br/>
+
+### Personal Portfolio
+
+*A home for my work and ideas.*
+
+Projects, experiments, articles and things I'm learning along the way.
+
+<a href="https://lxfx057.github.io/Portfolio/">Explore my portfolio →</a>
+
+</div>
+
+---
 
 ## GitHub activity
 
-<img src="https://ghstats.dev/api/card?username=lxfx057&theme=dark" width="85%" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lxfx057&show_icons=true&hide_border=true&bg_color=F5F6F3&title_color=718B7B&icon_color=91A997&text_color=555D57&border_radius=20" width="100%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=lxfx057&theme=default&hide_border=true&background=F4F3EF&ring=91A997&fire=C49B83&currStreakLabel=657B6B&sideLabels=777777&dates=999999" width="85%" />
-
-<br/><br/>
-
-<img src="https://ghstats.dev/api/sparkline?username=lxfx057&theme=dark" width="90%" />
+<img src="https://streak-stats.demolab.com?user=lxfx057&hide_border=true&background=F5F6F3&ring=91A997&fire=C49B83&currStreakLabel=718B7B&sideLabels=718B7B&dates=929A93" width="100%" />
 
 </div>
 
@@ -162,42 +138,22 @@ A place for ideas, prototypes and learning through experimentation.
 
 <div align="center">
 
-## Beyond the code
+## A little beyond code
 
-I enjoy discovering new technologies, learning new things and finding better ways to approach everyday problems.
-
-I also like writing about what I learn and sharing useful ideas through my portfolio.
+I enjoy discovering new ideas, learning from others and finding simple solutions to complex problems.
 
 **Fun fact:** I probably drink more water than ChatGPT processes tokens. 💧
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ## Let's connect
 
-Always happy to meet people, exchange ideas and talk about technology.
+I'd love to hear about interesting ideas, projects and collaborations.
+
+[Email](mailto:lucafinaldi3@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/luca-finaldi-840a44309/) &nbsp; · &nbsp; [Instagram](https://instagram.com/lukafinaldi_)
 
 <br/>
 
-<a href="mailto:lucafinaldi3@gmail.com">
-<img src="https://img.shields.io/badge/Email-DCE7DF?style=for-the-badge&logo=gmail&logoColor=49644F" />
-</a>
-<a href="https://www.linkedin.com/in/luca-finaldi-840a44309/">
-<img src="https://img.shields.io/badge/LinkedIn-DCE4EF?style=for-the-badge&logo=linkedin&logoColor=526A86" />
-</a>
-<a href="https://instagram.com/lukafinaldi_">
-<img src="https://img.shields.io/badge/Instagram-E9DFE4?style=for-the-badge&logo=instagram&logoColor=715968" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=lxfx057&style=flat&color=DCE7DF&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-*Made with curiosity and a little creativity.*
+<sub>Made with curiosity, creativity and a lot of coffee.</sub>
 
 </div>
