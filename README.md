@@ -155,7 +155,7 @@ Exploring new technologies, building prototypes and learning through practical d
 ## 📊 GitHub Analytics
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=lxfx057&hide_border=true&border_radius=16.5)
-———
+
 ![Top Languages](https://ghstats.dev/api/langs?username=lxfx057&max_langs=12&layout=grid)
 
 
