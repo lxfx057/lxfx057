@@ -156,34 +156,11 @@ Exploring new technologies, building prototypes and learning through practical d
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lxfx057&bg_color=0d1117&color=9b8bea&line=8b6de0&point=c4b5fd&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lxfx057&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxfx057&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=lxfx057&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=lxfx057&hide_border=true&border_radius=16.5)
+———
+![Top Languages](https://ghstats.dev/api/langs?username=lxfx057&max_langs=12&layout=grid)
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=lxfx057&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
-<div align="center">
 
 ## ✨ Beyond the Code
 
